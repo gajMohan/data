@@ -1,0 +1,26 @@
+{
+    "name" : {
+        "short" : "Gaj Mohan",
+        "firstname" : "Gajalakshan",
+        "lastName": "Mohankumar"
+    },
+    "location" : "London",
+    "description" : "Senior Backend Engineer, Football fanatic, Full time geek",
+    "links" : [
+        {
+          "type": "twitter",
+          "name": "@inspectorgajit",
+          "url": "https://twitter.com/Inspectorgajit",
+        },
+        {
+          "type": "linkedin",
+          "name": "Inspectorgajit",
+          "url": "https://twitter.com/Inspectorgajit",
+        },
+        {
+          "type": "github",
+          "name": "Github",
+          "url": "https://twitter.com/Inspectorgajit",
+        },
+      ]
+}
