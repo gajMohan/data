@@ -5,7 +5,7 @@
         "lastName": "Mohankumar"
     },
     "location" : "London",
-    "description" : "Senior Backend Engineer, Football fanatic, Full time geek",
+    "bio" : "Senior Backend Engineer, Football fanatic, Full time geek",
     "website" : "https://www.gajmohan.dev",
     "image" : "https://data.gajmohan.dev/gaj_mohan.jpg",
     "links" : [
